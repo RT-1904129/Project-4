@@ -1,4 +1,4 @@
-# Best classification algorithm as per accuracy
+# Best classification algorithm as per Accuracy
 Here we try to get  the Best classification algorithm from three classification algorithm (as per accuracy) for sentimental analysis.
 - Three classification algorithm (**Random Forest algorithms,Naive Bayes algorithms,Support Vector Machine**)
 - I use "Information.csv" data for training my model and testing .
